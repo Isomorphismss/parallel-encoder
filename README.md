@@ -19,7 +19,7 @@ This project implements a parallelized Run-Length Encoding (RLE) algorithm using
 ## Compilation
 To compile the program, use the following standard command:
 ```bash
-gcc -pthread -o rle_compression rle_compression.c
+gcc -pthread -o rle_compression rle.c
 ```
 Alternatively, for optimized performance, you can use this command
 ```bash
